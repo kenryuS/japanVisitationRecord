@@ -1,0 +1,19 @@
+{"articles" : [
+    {
+        "id" : 0,
+        "datetime" : "05/11/2023 19:00 EDT",
+        "title-en" : "Test post",
+        "title-ja" : "テスト投稿",
+        "content-en" : "This is the test post.",
+        "content-ja" : "これはテスト投稿です。"
+    },
+    {
+        "id" : 1,
+        "datetime" : "05/11/2023 19:00 EDT",
+        "title-en" : "Test post2",
+        "title-ja" : "テスト投稿2",
+        "content-en" : "This is the test post 2.",
+        "content-ja" : "これはテスト投稿2です。"
+    }
+
+]}

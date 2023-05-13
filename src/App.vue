@@ -1,31 +1,60 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import Banner from './components/banner.vue'
+<script>
+import Banner from './components/banner.vue';
+import Posts from './components/posts.vue';
+import Footer from './components/footer.vue';
+import allarticles from "../public/posts.json";
+console.log(allarticles);
+export default {
+    data() {
+        return {
+            articles: allarticles["articles"],
+            lang: 0,
+            langText: "English"
+        }
+    },
+    components: {
+        Banner,
+        Posts,
+        Footer,
+    },
+    methods: {
+        toggleLang() {
+            if (this.lang == 0) {
+                this.lang = 1;
+                this.langText = "Japanese";
+            } else if (this.lang == 1) {
+                this.lang = 0;
+                this.langText = "English";
+            }
+        }
+    }
+}
 </script>
 
 <template>
+    <title>{{ lang ? "日本渡来記" : "Japan Visitation Record" }}</title>
     <div>
-        <Banner/>
-        <a href="https://vitejs.dev" target="_blank">
-            <img src="/vite.svg" class="logo" alt="Vite logo" />
-        </a>
-        <a href="https://vuejs.org/" target="_blank">
-            <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-        </a>
+        <Banner :language="lang"/>
+        <div id="postarea">
+            <Posts v-for="article in articles" v-bind:key="article.id" :article="article" :language="lang"></Posts>
+        </div>
+        <button @click="toggleLang()">{{ langText }}</button>
+        <Footer />
     </div>
 </template>
 
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
+<style >
+#postarea {
+    width: 60%;
+    border-radius: 20px;
+    height: fit-content;
+    max-height: 400px;
+    min-height: 125px;
+    background: grey;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 </style>
