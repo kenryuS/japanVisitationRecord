@@ -8,7 +8,7 @@ export default {
 <template id="postcards">
     <div id="post">
         <div class="spacer"></div>
-        <img v-if="article['image'] != undefined" :src="'/src/assets/img/' + article.image" />
+        <img v-if="article['image'] != undefined" :src="'/img/' + article.image" />
         <h3>{{ language ? article["title-ja"] : article["title-en"] }}</h3>
         <small>{{ language ? "投稿日時：" + article.datetime : "Posted: " + article.datetime }}</small>
         <p>{{ language ? article["content-ja"] : article["content-en"] }}</p>

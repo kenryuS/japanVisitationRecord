@@ -15,7 +15,7 @@
     margin: 0 auto;
     padding: 0 1rem;
     text-align: center;
-    background: url(./assets/img/banner.jpg) no-repeat center center fixed;
+    background: url(/img/banner.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
