@@ -7,5 +7,14 @@
         "content-en" : "Today is the day before the travel. Me and my father prepared for it. My sister and mother already left for Japan. I'm desperate to go to Japan.",
         "content-ja" : "今日は飛行機に乗る前日です。僕と父は荷造りを終え、妹と母親はすでに日本にいます。ようやく日本へ「仮釈放」される...",
         "image" : "IMG_20230729_230328267.jpg"
+    },
+    {
+        "id" : 1,
+        "datetime" : "07/30/2023 9:50 EDT",
+        "title-en" : "Day 0",
+        "title-ja" : "渡来当日",
+        "content-en" : "Today is the day. The travel day. We are going to take two flights: one is from Pittsburgh to Chicago and another one is from Chicago to Tokyo. I hope the weather is good at Tokyo...",
+        "content-ja" : "今日は、出発当日。飛行機を2便乗り継ぎます。ピッツバーグからシカゴへ、そしてシカゴから東京へ。着いた直後の天気が心配だが...",
+        "image" : null
     }
 ]}
