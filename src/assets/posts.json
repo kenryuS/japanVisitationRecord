@@ -16,5 +16,14 @@
         "content-en" : "Today is the day. The travel day. We are going to take two flights: one is from Pittsburgh to Chicago and another one is from Chicago to Tokyo. I hope the weather is good at Tokyo...",
         "content-ja" : "今日は、出発当日。飛行機を2便乗り継ぎます。ピッツバーグからシカゴへ、そしてシカゴから東京へ。着いた直後の天気が心配だが...",
         "image" : null
+    },
+    {
+        "id" : 2,
+        "datetime" : "07/31/2023 19:30 JST",
+        "title-en" : "Day 1",
+        "title-ja" : "1日目",
+        "content-en" : "After more than ten thousands kilometers traveled, I finally got to Japan ever since 2018. We arrived at late 5 PM and now we're taking Shinkansen(a bullet train) to the nearest station to one of my grandparents home.",
+        "content-ja" : "一万キロ以上飛行機で飛んでようやく、2018年以来初めて日本に来ました。午後五時過ぎに着いて、今、祖父母の家の近くの駅まで新幹線に乗っています。",
+        "image" : null
     }
 ]}
