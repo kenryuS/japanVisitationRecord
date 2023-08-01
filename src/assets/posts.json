@@ -25,5 +25,14 @@
         "content-en" : "After more than ten thousands kilometers traveled, I finally got to Japan ever since 2018. We arrived at late 5 PM and now we're taking Shinkansen(a bullet train) to the nearest station to one of my grandparents home.",
         "content-ja" : "一万キロ以上飛行機で飛んでようやく、2018年以来初めて日本に来ました。午後五時過ぎに着いて、今、祖父母の家の近くの駅まで新幹線に乗っています。",
         "image" : null
+    },
+    {
+    	"id": 3,
+	"datetime" : "08/01/2023 23:25 JST",
+	"title-en" : "Day 2",
+	"title-ja" : "２日目",
+	"content-en" : "Today, we went to Kakegawa bird garden. We went there last visit. We saw meny birds at there and the pork curry at there was delicious. Today is the first and last full day with one of my grandparents so we ate early birthday cake for me and the hand held fireworks.",
+	"content-ja" : "今日は前回の帰国でも行った掛川花鳥園に行ってきました。沢山の鳥を鑑賞し、昼飯として食べたカツカレーも美味しかったです。そして今日は一日中祖父母とともにいる最初で最後の日なので、早めの誕生日ケーキを食べ、線香花火をやりました。",
+	"image" : "IMG_20230801_133633491~2.jpg"
     }
 ]}
