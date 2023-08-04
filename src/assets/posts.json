@@ -52,5 +52,14 @@
         "content-en" : "We went to an aquarium specializing in freshwater fish in Gifu Preficture.",
         "content-ja" : "今日は、岐阜県にある淡水魚専門の水族館に行ってきました。",
         "image" : "IMG_20230803_115531799.jpg"
+    },
+    {
+        "id" : 6,
+        "datetime" : "08/04/2023 21:00 JST",
+        "title-en" : "Day 5",
+        "title-ja" : "5日目",
+        "content-en" : "Today, I took the Eiken (Japanese English Test) Grade 2. I prepared and practiced it multiple times so I was confident about it. I hope I pass it. After the test, We went to Inuyama City to see the good old Shouwa street.",
+        "content-ja" : "今日は、英検2級を受けてきました。何回も練習して来たので余り緊張しませんでした。合格していると思いたいです。その後で、昭和風の建物が並ぶ道を見るために犬山市に行きました。",
+        "image" : "IMG_20230804_135228142~2.jpg"
     }
 ]}
