@@ -61,5 +61,14 @@
         "content-en" : "Today, I took the Eiken (Japanese English Test) Grade 2. I prepared and practiced it multiple times so I was confident about it. I hope I pass it. After the test, We went to Inuyama City to see the good old Shouwa street.",
         "content-ja" : "今日は、英検2級を受けてきました。何回も練習して来たので余り緊張しませんでした。合格していると思いたいです。その後で、昭和風の建物が並ぶ道を見るために犬山市に行きました。",
         "image" : "IMG_20230804_135228142~2.jpg"
+    },
+    {
+        "id" : 7,
+        "datetime" : "08/05/2023 23:18 JST",
+        "title-en" : "Day 6",
+        "title-ja" : "6日目",
+        "content-en" : "Today, I went to trial classes of Toyota technical college. I took two classes; Internet and AI, and Solve mathematics problems from past exam question collections.",
+        "content-ja" : "今日は、豊田高専の体験授業に行きました。\"インターネットとAI\"と\"数学過去問を解こう\"でした。",
+        "image" : null
     }
 ]}
