@@ -70,5 +70,14 @@
         "content-en" : "Today, I went to trial classes of Toyota technical college. I took two classes; Internet and AI, and Solve mathematics problems from past exam question collections.",
         "content-ja" : "今日は、豊田高専の体験授業に行きました。\"インターネットとAI\"と\"数学過去問を解こう\"でした。",
         "image" : null
+    },
+    {
+        "id" : 8,
+        "datetime" : "08/06/2023 22:50 JST",
+        "title-en" : "Day 7",
+        "title-ja" : "7日目",
+        "content-en" : "Today, I went to open campus of Gifu technical college. I've seen many exhibits such as games and robots. Also, I traveled to Tokyo from Aichi today.",
+        "content-ja" : "今日は、岐阜高専のオープンキャンパスに行ってきました。ゲームやロボットなどの様々な展示を見てきてきました。そして今日は、愛知から東京へ移動してきました。",
+        "image" : null
     }
 ]}
