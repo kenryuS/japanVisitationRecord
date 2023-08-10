@@ -79,5 +79,23 @@
         "content-en" : "Today, I went to open campus of Gifu technical college. I've seen many exhibits such as games and robots. Also, I traveled to Tokyo from Aichi today.",
         "content-ja" : "今日は、岐阜高専のオープンキャンパスに行ってきました。ゲームやロボットなどの様々な展示を見てきてきました。そして今日は、愛知から東京へ移動してきました。",
         "image" : null
+    },
+    {
+        "id" : 9,
+        "datetime" : "08/09/2023 23:30 EDT",
+        "title-en" : "Day 8",
+        "title-ja" : "8日目",
+        "content-en" : "Today is my birthday and We went shopping in Tokyo. I bought two programming books that might be helpful and some OST CDs from my favorite indie creator. I also bought new headphone. That night, we went to the restaurant to eat meat for my birthday.",
+        "content-ja" : "今日は僕の誕生日祝いとして、東京で買い物をしてきました。僕はプログラミング関連の本を二冊、そして僕の好きなインディークリエーターによるサウンドトラックCDを数枚買いました。その晩は焼肉を食べました。",
+        "image" : "IMG_20230807_194113551_MP.jpg"
+    },
+    {
+        "id" : 10,
+        "datetime" : "08/09/2023 23:30 EDT",
+        "title-en" : "Final Day",
+        "title-ja" : "最終日",
+        "content-en" : "Today is the final day of this trip. We went to Yasukuni shrine as final place to visit. The trip is filled with many memories and it'll be most packed schedule ever.",
+        "content-ja" : "今日はこの度の最終日、靖国神社に行ってまいりました。今回の旅は今まで以上に充実していていい思い出になりました。",
+        "image" : "IMG_20230808_111152237_MP.jpg"
     }
 ]}
